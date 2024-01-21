@@ -25,11 +25,3 @@ To get started with the installation, follow these steps:
 7. Verify Ingress Nginx and External DNS are running and test the functionality.
 
 For detailed step-by-step instructions, please refer to the [full tutorial](/Users/mu/src/mlops/ingress-nginx-external-dns/README.md).
-
-## Contributing
-
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This code is licensed under the [MIT License](LICENSE).
